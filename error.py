@@ -1,0 +1,2 @@
+class IncorrectMass(Exception):
+    pass
